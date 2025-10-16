@@ -11,8 +11,8 @@
 \usepackage{geometry}
 \usepackage[backend=biber, style=ieee]{biblatex}
 \addbibresource{references.bib}
-\usepackage{pdflscape} % untuk halaman landscape dalam PDF
 \usepackage{lscape}
+\usepackage{pdflscape}
 \usepackage{fancyhdr}
 \usepackage{graphicx}
 \usepackage{setspace}
@@ -46,6 +46,17 @@
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
+% =================================================================
+% TAMBAHKAN BLOK KODE BARU INI TEPAT DI BAWAH PENGATURAN FANCYHDR
+% =================================================================
+\fancypagestyle{mylandscape}{
+    \fancyhf{} % Hapus semua header dan footer
+    \fancyfoot[C]{\thepage} % Atur footer: hanya nomor halaman di tengah
+    \renewcommand{\headrulewidth}{0pt} % Pastikan tidak ada garis header
+    \renewcommand{\footrulewidth}{0.4pt} % Gambar ulang garis footer
+}
+% =================================================================
+
 % ========== SECTION FORMATTING ==========
 \titleformat{\section}
   {\normalfont\Large\bfseries}{\thesection}{1em}{}
@@ -65,10 +76,10 @@
 
 % ========== INFORMASI MAHASISWA ==========
 % SILAKAN ISI INFORMASI DI BAWAH INI
-\newcommand{\mahasiswaNama}{Nama Lengkap Mahasiswa}
-\newcommand{\mahasiswaNIM}{NIM Mahasiswa}
+\newcommand{\mahasiswaNama}{Naufal Haris Nurkhoirulloh}
+\newcommand{\mahasiswaNIM}{122140040}
 \newcommand{\mahasiswaKelas}{Kelas}
-\newcommand{\mahasiswaEmail}{email@student.ac.id}
+\newcommand{\mahasiswaEmail}{naufal.122140040@student.itera.ac.id}
 
 % ========== DOCUMENT BEGIN ==========
 \begin{document}
