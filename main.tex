@@ -1,0 +1,128 @@
+% ============================================
+% TEMPLATE LAPORAN UTS K3L
+% Teknik Fisika - Universitas
+% ============================================
+
+\documentclass[12pt,a4paper]{article}
+
+% ========== PACKAGES ==========
+\usepackage[utf8]{inputenc}
+\usepackage[bahasa]{babel}
+\usepackage{geometry}
+\usepackage[backend=biber, style=ieee]{biblatex}
+\addbibresource{references.bib}
+\usepackage{pdflscape} % untuk halaman landscape dalam PDF
+\usepackage{lscape}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+% ========== PAGE SETUP ==========
+\geometry{
+    a4paper,
+    left=3cm,
+    right=3cm,
+    top=3cm,
+    bottom=3cm
+}
+
+% ========== SPACING ==========
+\onehalfspacing
+
+% ========== HEADER & FOOTER ==========
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small Laporan UTS K3L}
+\fancyhead[R]{\small Teknik Fisika}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% ========== SECTION FORMATTING ==========
+\titleformat{\section}
+  {\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+
+% ========== HYPERLINK SETUP ==========
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=blue,
+    citecolor=blue,
+}
+
+% ========== INFORMASI MAHASISWA ==========
+% SILAKAN ISI INFORMASI DI BAWAH INI
+\newcommand{\mahasiswaNama}{Nama Lengkap Mahasiswa}
+\newcommand{\mahasiswaNIM}{NIM Mahasiswa}
+\newcommand{\mahasiswaKelas}{Kelas}
+\newcommand{\mahasiswaEmail}{email@student.ac.id}
+
+% ========== DOCUMENT BEGIN ==========
+\begin{document}
+
+% Hilangkan header pada halaman cover
+\thispagestyle{empty}
+
+% ========== COVER PAGE ==========
+\input{cover.tex}
+\newpage
+
+% ========== TABLE OF CONTENTS ==========
+\tableofcontents
+\newpage
+
+% ========== SOAL 1: KONSEP DAN PERAN K3L ==========
+\section{Konsep dan Peran K3L}
+\label{sec:konsep-k3l}
+\input{chapter-1.tex}
+\newpage
+
+% ========== SOAL 2: REGULASI DAN STANDAR K3L ==========
+\section{Regulasi dan Standar K3L}
+\label{sec:regulasi-k3l}
+\input{chapter-2.tex}
+\newpage
+
+% ========== SOAL 3: IDENTIFIKASI BAHAYA DAN ANALISIS RISIKO ==========
+\section{Identifikasi Bahaya dan Analisis Risiko}
+\label{sec:identifikasi-bahaya}
+\input{chapter-3.tex}
+\newpage
+
+% ========== SOAL 4: PENERAPAN SOP & SIKAP AKADEMIK ==========
+\section{Penerapan SOP dan Sikap Akademik}
+\label{sec:penerapan-sop}
+\input{chapter-4.tex}
+\newpage
+
+%----------------------------------------------------------------%
+    % Daftar Pustaka
+    \newpage
+    \phantomsection% 
+    \addcontentsline{toc}{section}{DAFTAR PUSTAKA}
+    \printbibliography[heading=bibintoc, title={DAFTAR PUSTAKA}]
+	%----------------------------------------------------------------%
+    % Lampiran
+    %----------------------------------------------------------------%
+    % TODO: Tabel Lampiran
+    \newpage
+    \appendix
+    \addcontentsline{toc}{section}{LAMPIRAN} 
+    \section*{Lampiran} % <--- INI BENAR
+    \renewcommand\thesection{\Alph{section}}
+    \input{appendix}
+    %----------------------------------------------------------------%
+\end{document}

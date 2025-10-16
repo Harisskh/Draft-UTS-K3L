@@ -1,0 +1,68 @@
+\babel@toc {bahasa}{}\relax 
+\contentsline {section}{\numberline {1}Konsep dan Peran K3L}{3}{section.1}%
+\contentsline {subsection}{Judul Kasus}{3}{section*.1}%
+\contentsline {subsection}{\numberline {1.1}Deskripsi Situasi}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Analisis Konsep K3L}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Keamanan (Security)}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Kesehatan Kerja (Occupational Health)}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Keselamatan Kerja (Occupational Safety)}{3}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Lingkungan Kerja (Work Environment)}{3}{subsubsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.3}Peran K3L di Industri}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Strategi Komunikasi}{4}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Identifikasi Stakeholder}{4}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Metode Komunikasi}{4}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Media dan Saluran Komunikasi}{5}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Evaluasi Efektivitas Komunikasi}{5}{subsubsection.1.4.4}%
+\contentsline {section}{\numberline {2}Regulasi dan Standar K3L}{6}{section.2}%
+\contentsline {subsection}{Judul Kasus}{6}{section*.2}%
+\contentsline {subsection}{\numberline {2.1}Analisis Keterkaitan Regulasi}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Regulasi Nasional}{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Standar Internasional}{6}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Standar Industri Spesifik}{7}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Analisis Kepatuhan}{7}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}Langkah Perbaikan Sistem}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Perbaikan Jangka Pendek (0-3 bulan)}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Perbaikan Jangka Menengah (3-6 bulan)}{8}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Perbaikan Jangka Panjang (6-12 bulan)}{8}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Rencana Implementasi}{8}{subsubsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.3}Peran Komunikasi dan Pelatihan}{9}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Peran Komunikasi dalam Implementasi Regulasi}{9}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Program Pelatihan K3L}{9}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Evaluasi Efektivitas Komunikasi dan Pelatihan}{10}{subsubsection.2.3.3}%
+\contentsline {section}{\numberline {3}Identifikasi Bahaya dan Analisis Risiko}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Identifikasi Jenis Bahaya}{11}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Bahaya Fisik (Physical Hazards)}{11}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Bahaya Kimia (Chemical Hazards)}{11}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Bahaya Biologi (Biological Hazards)}{12}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Bahaya Ergonomi (Ergonomic Hazards)}{12}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Bahaya Psikososial (Psychosocial Hazards)}{12}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Bahaya Mekanik (Mechanical Hazards)}{13}{subsubsection.3.1.6}%
+\contentsline {subsubsection}{\numberline {3.1.7}Bahaya Listrik (Electrical Hazards)}{13}{subsubsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.2}Analisis Risiko}{14}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Metode Penilaian Risiko}{14}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Tabel Analisis Risiko}{14}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Risk Matrix}{16}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Alat Bantu Identifikasi Bahaya}{16}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Metode Identifikasi Bahaya}{16}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Tools dan Teknologi Pendukung}{17}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Dokumentasi dan Pelaporan}{17}{subsubsection.3.3.3}%
+\contentsline {section}{\numberline {4}Penerapan SOP dan Sikap Akademik}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Rancangan Singkat SOP}{18}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Informasi Umum SOP}{18}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Tujuan SOP}{18}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Ruang Lingkup}{18}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Definisi dan Istilah}{19}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}Referensi}{19}{subsubsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.6}Prosedur Kerja}{19}{subsubsection.4.1.6}%
+\contentsline {subsubsection}{\numberline {4.1.7}APD yang Diperlukan}{22}{subsubsection.4.1.7}%
+\contentsline {subsubsection}{\numberline {4.1.8}Kondisi Darurat}{22}{subsubsection.4.1.8}%
+\contentsline {subsubsection}{\numberline {4.1.9}Review dan Update SOP}{22}{subsubsection.4.1.9}%
+\contentsline {subsection}{\numberline {4.2}Sikap Akademik dan Komunikatif}{23}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Refleksi Proses Pembelajaran}{23}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Sikap Aktif dalam Pembelajaran}{23}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Sikap Analitis dan Inovatif}{24}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Kemampuan Komunikasi}{24}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}Tanggung Jawab Akademik}{25}{subsubsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.6}Evaluasi Diri dan Rencana Pengembangan}{26}{subsubsection.4.2.6}%
+\contentsline {section}{DAFTAR PUSTAKA}{27}{section*.3}%
+\contentsline {section}{LAMPIRAN}{27}{section*.3}%
